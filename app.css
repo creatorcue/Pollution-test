@@ -1,0 +1,11 @@
+.list-group-item:first-child {
+    border-top-left-radius: 0cm;
+    border-top-right-radius: 0cm;
+}
+.list-group-item{
+    padding: 1rem 2rem;
+}
+a:focus{
+    color: #fff(--bs-list-group-active-color);
+    background-color: #0d6efd(--bs-list-group-active-bg);
+}
